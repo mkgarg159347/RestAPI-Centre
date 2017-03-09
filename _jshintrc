@@ -1,0 +1,27 @@
+// options defined here http://jshint.com/docs/options/
+{
+  "strict": "global",
+  "bitwise": true,
+  "curly": true,
+  "eqeqeq": true,
+  "latedef": false,
+  "noarg": true,
+  "undef": true,
+  "unused": true,
+  "node": true,
+  "validthis": true,
+  "esnext": true,
+  "globals": {
+    "browser": false,
+    "element": false,
+    "by": false,
+    "$": true,
+    "$$": false,
+    "protractor": false,
+    "apiRequests": false,
+    "sqlRequests": false,
+    "assert": false,
+    "fs": false,
+    "expect": false
+  }
+}

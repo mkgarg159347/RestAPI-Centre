@@ -1,0 +1,48 @@
+{
+  "GetAllData": {
+    "requestParam": {},
+    "requestBody": "",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "GetDataOnparam": {
+    "requestParam": {
+      "id": 1
+    },
+    "requestBody": "",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "xmlDemo": {
+    "requestParam": {
+      "eventId": "MI116914Y0"
+    },
+    "requestBody": "",
+    "headers": {
+      "Content-Type": "application/xml"
+    }
+  },
+  "POSTAPIDATA": {
+    "requestParam": {},
+    "requestBody": "",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "PUTAPIDATA": {
+    "requestParam": {},
+    "requestBody": "",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "DELETEAPIDATA": {
+    "requestParam": {},
+    "requestBody": "",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
